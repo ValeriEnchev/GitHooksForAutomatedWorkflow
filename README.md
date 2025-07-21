@@ -1,6 +1,6 @@
 # Git Hooks For Automated Workflow
 
-##Scenario
+## Scenario
 
 · You are part of a development team working on a project.
 
@@ -19,3 +19,19 @@
 	o Merge the branch and clean up the old feature branches.
 
 	o Optimize repo size using Git LFS if needed.
+	
+## Installing steps
+
+npm init
+
+npm install jest
+
+npm install eslint
+
+npx eslint --init
+
+git remote add origin git@github...
+
+git remote -v
+
+git push -u origin main 

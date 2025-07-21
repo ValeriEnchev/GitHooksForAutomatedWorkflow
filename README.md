@@ -19,3 +19,23 @@
 	o Merge the branch and clean up the old feature branches.
 
 	o Optimize repo size using Git LFS if needed.
+	
+## Installing steps
+
+npm init
+
+npm install jest
+
+npm install eslint
+
+npx eslint --init
+
+git remote add origin git@github...
+
+git remote -v
+
+git push -u origin main 
+
+git checkout -b installing-feature
+
+git push -u origin installing-feature 

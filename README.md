@@ -1,6 +1,6 @@
 # Git Hooks For Automated Workflow
 
-##Scenario
+## Scenario
 
 · You are part of a development team working on a project.
 

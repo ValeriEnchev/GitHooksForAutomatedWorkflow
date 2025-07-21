@@ -35,3 +35,7 @@ git remote add origin git@github...
 git remote -v
 
 git push -u origin main 
+
+git checkout -b installing-feature
+
+git push -u origin installing-feature 

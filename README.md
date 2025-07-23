@@ -39,3 +39,7 @@ git push -u origin main
 git checkout -b installing-feature
 
 git push -u origin installing-feature 
+
+git lfs install
+
+git lfs track "*.ext"
